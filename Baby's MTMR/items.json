@@ -32,7 +32,17 @@
         "align": "right",
         "bordered": false
       },
-      
+      /*{ // DISPLAY MUTI QUOTES 
+        "type": "shellScriptTitledButton",
+        "width": 880,
+        "refreshInterval": 30, // in seconds
+        "source": {
+          // "inline": "echo \"YO\""
+          "filePath": "/Users/baby/Library/Application Support/MTMR/Quotes.sh"
+        },
+        "align": "center",
+        "bordered": false
+      },*/
 
       { 
         "type": "shellScriptTitledButton",
